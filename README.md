@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna Dawalkar</h1>
-<h3 align="center">A coding enthusiast and a passionate frontend developer from India. I love to code and to learn new skills by doing hands-o projects, looking forward to contribute in many open source projects.</h3>
+<h3 align="center">A coding enthusiast and a passionate frontend developer from India. I love to code and to learn new skills by doing hands-on projects, looking forward to contribute in many open source projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna-pradeep-dawalkar&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-pradeep-dawalkar" /> </p>
 
